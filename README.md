@@ -21,8 +21,8 @@
 - 🌱 Learning **Java Backend & Full Stack**  
 - 💬 Ask me about **Spring Boot, MERN, Blockchain**  
 - 📫 Reach me at: **msughan.2005@gmail.com**  
-- 📄 [View My Resume](https://drive.google.com/file/d/1llWNeCr1pO5VrDWdrkZ_4MM1Dm-KWR20/view?usp=drive_link)
-
+- 📄 [View My Resume](https://drive.google.com/file/d/1llWNeCr1pO5VrDWdrkZ_4MM1Dm-KWR20/view?usp=drive_link)  
+- 🌐 [Visit My Portfolio](https://sughan.vercel.app)  
 ---
 
 <!-- Connect With Me -->
